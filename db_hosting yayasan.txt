@@ -1,3 +1,0 @@
-database name = ponpes
-database username = db_ponpes
-password = q60<s_Oye$pfO8f<
