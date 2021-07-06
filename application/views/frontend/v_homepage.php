@@ -228,19 +228,19 @@
                       <div class="tab-content">
                           <div class="tab-pane active show" id="tab-1">
                               <figure>
-                                  <img src="<?= base_url('gambar/features/features-5.jpg'); ?>" alt=""
+                                  <img src="<?= base_url('gambar/features/undraw_online_articles_79ff.svg'); ?>" alt=""
                                       class="img-fluid">
                               </figure>
                           </div>
                           <div class="tab-pane" id="tab-2">
                               <figure>
-                                  <img src="<?= base_url('gambar/features/features-6.png'); ?>" alt=""
+                                  <img src="<?= base_url('gambar/features/undraw_Processing_re_tbdu.svg'); ?>" alt=""
                                       class="img-fluid">
                               </figure>
                           </div>
                           <div class="tab-pane" id="tab-3">
                               <figure>
-                                  <img src="<?= base_url('gambar/features/features-1.png'); ?>" alt=""
+                                  <img src="<?= base_url('gambar/features/undraw_product_tour_re_8bai.svg'); ?>" alt=""
                                       class="img-fluid">
                               </figure>
                           </div>
