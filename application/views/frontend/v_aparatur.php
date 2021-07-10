@@ -21,10 +21,10 @@
 
             <div class="row">
                 <?php foreach($aparatur as $a) { ?>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-4">
-                    <div class="card shadow" style="width: 18rem;">
-                        <img src="<?= base_url('gambar/pekerja/') . $a->foto; ?>" class="card-img-top" alt="...">
+                <div class="col-lg-3 d-flex align-items-stretch mb-4">
+                    <div class="card shadow" style="width: 100%;" data-aos="fade-up">
+                        <img src="<?= base_url('gambar/pekerja/') . $a->foto; ?>" class="card-img-top" alt="aparatur"
+                            style="height: 75%;">
                         <div class="card-body text-center">
                             <h4><?= $a->nama_lengkap?></h4>
                             <span><?= $a->jabatan?></span>
